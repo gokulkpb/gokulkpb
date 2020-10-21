@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
+Class Me :
 
-import me
-
-data = { 
+         def __init__(self):
+                  self.name = 'Gokul Balachandran'
+                  self.age = 20
+                  self.SKILLS = ['Python']
+                  self.education = 'Pursuing engineering in COmputer Science'
+                  self.interest = ['Machine Learning', 'Data Science']
+                  
+         def update_skill(self, skill):
+                  self.SKILLS.append(skill)
+                  
          
-         'Name' : 'Gokul Balachandran',
-       
-         'objective' : 'Data Scientist'
-       }
