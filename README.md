@@ -19,6 +19,5 @@ import me
 
 data = { 
          'Name' : 'Gokul Balachandran',
-         'Skill' : 'Python',
-         'Dream' : 'Data scientist' 
+         'Skill' : 'Python'
        }
