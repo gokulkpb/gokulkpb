@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+import me
+
+data = { 
+         'Name' : 'Gokul Balachandran',
+         'Skill' : 'Python',
+         'Dream' : 'Data scientist' 
+       }
