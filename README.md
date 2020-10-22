@@ -21,9 +21,9 @@ Here are some ideas to get you started:
          def __init__(self):
                   self.name = 'Gokul Balachandran'
                   self.age = 20
+                  self.education = 'Pursuing engineering in COmputer Science'
                   self.SKILLS = ['Python']
                   self.Python_Lib_Known = ['Pandas', 'Numpy', ' Matplotlib', 'Sci-Kit learn']
-                  self.education = 'Pursuing engineering in COmputer Science'
                   self.interest = ['Machine Learning', 'Data Science']
                   
          def update_Python_Lib_Known(self, Lib):
