@@ -22,10 +22,11 @@ Here are some ideas to get you started:
                   self.name = 'Gokul Balachandran'
                   self.age = 20
                   self.SKILLS = ['Python']
+                  self.Python_Lib_Known = ['Pandas', 'Numpy', ' Matplotlib', 'Sci-Kit learn']
                   self.education = 'Pursuing engineering in COmputer Science'
                   self.interest = ['Machine Learning', 'Data Science']
                   
-         def update_skill(self, skill):
-                  self.SKILLS.append(skill)
+         def update_Python_Lib_Known(self, Lib):
+                  self.Python_Lib_Known.append(Lib)
                   
          
