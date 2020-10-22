@@ -24,7 +24,7 @@ Here are some ideas to get you started:
                   self.education = 'Pursuing engineering in COmputer Science'
                   self.SKILLS = ['Python']
                   self.Python_Lib_Known = ['Pandas', 'Numpy', ' Matplotlib', 'Sci-Kit learn']
-                  self.interest = ['Machine Learning', 'Data Science']
+                  self.interest = ['Machine Learning', 'Data Science', 'Computer Vision']
                   
          def update_Python_Lib_Known(self, Lib):
                   self.Python_Lib_Known.append(Lib)
