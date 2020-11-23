@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-### class me :
+    ### class me :
          
          def __init__(self):
                   self.name = 'Gokul Balachandran'
                   self.age = 20
                   self.education = 'Pursuing engineering in COmputer Science'
                   self.SKILLS = ['Python']
-                  self.Python_Lib_Known = ['Pandas', 'Numpy', ' Matplotlib', 'Sci-Kit learn']
+                  self.Python_Lib_Known = ['Pandas', 'Numpy', ' Matplotlib', 'Sci-Kit learn', 'opencv']
                   self.interest = ['Machine Learning', 'Data Science', 'Computer Vision']
                   
          def update_Python_Lib_Known(self, Lib):
