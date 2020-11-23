@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
     class ME :
-         
          def __init__(self):
                   self.name = 'Gokul Balachandran'
                   self.age = 20
