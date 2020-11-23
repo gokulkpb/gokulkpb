@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-    class me :
+    class ME :
          
          def __init__(self):
                   self.name = 'Gokul Balachandran'
