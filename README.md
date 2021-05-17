@@ -20,12 +20,12 @@ Here are some ideas to get you started:
          def __init__(self):
                   self.name = 'Gokul Balachandran'
                   self.age = 20
-                  self.education = 'Pursuing engineering in COmputer Science'
+                  self.education = 'Pursuing engineering in Computer Science'
                   self.SKILLS = ['Python']
-                  self.Python_Lib_Known = ['Pandas', 'Numpy', ' Matplotlib', 'Sci-Kit learn', 'opencv']
-                  self.interest = ['Machine Learning', 'Data Science', 'Computer Vision']
+                  self.Python_Lib_Known = ['Tensorflow', 'Sci-Kit learn', 'opencv', 'Pandas', 'Numpy', 'Matplotlib']
+                  self.interest = ['Deep Learning', 'Computer Vision', 'Data Science']
                   
          def update_Python_Lib_Known(self, Lib):
                   self.Python_Lib_Known.append(Lib)
                   
-         
+   
